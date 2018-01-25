@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\CalculadoraVetor.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\CalculadoraVetor.exe.config
+C:\Users\Denis\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\CalculadoraVetor.exe
+C:\Users\Denis\source\repos\CalculadoraVetor\CalculadoraVetor\bin\Debug\CalculadoraVetor.pdb
+C:\Users\Denis\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\CalculadoraVetor.exe
+C:\Users\Denis\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\CalculadoraVetor.pdb
+C:\Users\Denis\source\repos\CalculadoraVetor\CalculadoraVetor\obj\Debug\CalculadoraVetor.csprojResolveAssemblyReference.cache
